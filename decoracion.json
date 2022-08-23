@@ -1,0 +1,10 @@
+[
+    {  "nombre": "Hoja sujetador", "precio": 600, "tipo": "sujetador", "cantidad": 1, "desc": "Sujetador de cortinas", "img": "../img/sujeta.jpg", "id": 1},
+    {  "nombre": "Cuello termico", "precio": 800, "tipo": "cuello", "cantidad": 1, "desc": "Cuellito de lana termico", "img": "../img/cuellito.jpg", "id": 2},
+    {  "nombre": "Canastas Macramé", "precio": 1200, "tipo": "canasta", "cantidad": 1, "desc": "Canastas hechas en macramé", "img": "../img/canastasv3.jpg", "id": 3},
+    {  "nombre": "Espejo Macramé", "precio": 2200, "tipo": "espejo", "cantidad": 1, "desc": "Espejo de 30cm en macramé", "img": "../img/espejomacrame.jpg", "id": 4},
+    {  "nombre": "Manta", "precio": 4500, "tipo": "manta", "cantidad": 1, "desc": "Manta de lana suave", "img": "../img/manta.jpg", "id": 5},
+    {  "nombre": "Cartera de Rafia", "precio": 2500, "tipo": "cartera", "cantidad": 1, "desc": "Cartera de Rafia", "img": "../img/carterarafia.jpg", "id": 6},
+    {  "nombre": "Centro de mesa", "precio": 900, "tipo": "centro", "cantidad": 1, "desc": "Centro de mesa de algodón de 20cm", "img": "../img/centrodemesa.jpg", "id": 7},
+    {  "nombre": "Centro de mesa en algodón", "precio": 1400, "tipo": "centro", "cantidad": 1, "desc": "Centro de mesa de algodón de 30cm", "img": "../img/centrodemesav2.jpg", "id": 8}
+]

@@ -1,0 +1,10 @@
+[
+    {  "nombre": "Mate Thor", "precio": 900, "tipo": "mate", "cantidad": 1, "desc": "Mate de el Dios del Trueno", "img": "../img/matethor.jpg", "id": 1},
+    {  "nombre": "Mate Hogwarts", "precio": 1400, "tipo": "mate", "cantidad": 1, "desc": "Mate de la escuela de magia", "img": "../img/hogwartsmate.jpg", "id": 2},
+    {  "nombre": "Mate Minion", "precio": 900, "tipo": "mate", "cantidad": 1, "desc": "Mate de los Minions", "img": "../img/mateminion.jpg", "id": 3},
+    {  "nombre": "Mate Baby Yoda", "precio": 950, "tipo": "mate", "cantidad": 1, "desc": "Mate de Baby Yoda", "img": "../img/mateyoda.jpg", "id": 4},
+    {  "nombre": "Taza Peppa", "precio": 1200, "tipo": "taza", "cantidad": 1, "desc": "Taza de Peppa Pig", "img": "../img/peppataza.jpg", "id": 5},
+    {  "nombre": "Taza Bob Esponja", "precio": 1300, "tipo": "taza", "cantidad": 1, "desc": "Mate de Bob Esponja", "img": "../img/bobtaza.jpg", "id": 6},
+    {  "nombre": "Taza Stitch", "precio": 1400, "tipo": "taza", "cantidad": 1, "desc": "Taza del personaje Stitch", "img": "../img/tazastitch.jpg", "id": 7},
+    {  "nombre": "Taza Unicornio", "precio": 1000, "tipo": "taza", "cantidad": 1, "desc": "Mate de Unicornio", "img": "../img/mateUnicornio.jpg", "id": 8}
+]
